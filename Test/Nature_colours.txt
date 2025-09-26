@@ -1,51 +1,61 @@
 序号,颜色中文名,颜色英文名,R,G,B,自然界来源实例（中文）,自然界来源实例（英文）
-1,炭黑,Charcoal Black,54,69,79,木炭,Charcoal
-2,乌木黑,Ebony Black,85,93,80,乌木,Ebony wood
-3,鸦黑,Raven Black,58,56,56,乌鸦的羽毛,Raven feathers
-4,曜石黑,Obsidian Black,5,15,30,黑曜石,Obsidian
-5,深夜黑,Midnight Black,25,25,112,无月的夜空,A moonless night sky
-6,墨黑,Ink Black,20,20,20,中国传统墨块,Traditional Chinese ink stick
-7,沥青黑,Asphalt Black,35,35,35,铺路沥青,Road asphalt
-8,黑玛瑙黑,Onyx Black,40,35,35,黑玛瑙,Onyx gemstone
-9,黑檀黑,Black Sandalwood,50,45,40,黑檀木,Black sandalwood
-10,黑珍珠黑,Black Pearl,30,35,40,黑珍珠,Black pearl
-11,黑钻黑,Black Diamond,35,35,38,碳黑色钻石,Carbonado (black diamond)
-12,黑珊瑚黑,Black Coral,60,55,50,黑珊瑚,Black coral
-13,黑云黑,Storm Cloud Black,50,50,55,暴风雨前的乌云,Storm clouds before rain
-14,黑土地黑,Black Soil Black,40,35,30,肥沃的黑土,Fertile black soil
-15,黑豆黑,Black Bean Black,50,40,35,黑豆表皮,Black bean skin
-16,黑米黑,Black Rice Black,45,35,40,黑米 grains,Black rice grains
-17,黑莓黑,Blackberry Black,40,30,40,成熟黑莓,Ripe blackberries
-18,黑咖啡黑,Black Coffee Black,45,35,25,纯黑咖啡,Pure black coffee
-19,黑巧克力黑,Dark Chocolate Black,40,25,15,高可可含量黑巧克力,High-cocoa dark chocolate
-20,黑蚁黑,Black Ant Black,40,35,30,黑蚂蚁,Black ants
-21,黑豹黑,Panther Black,30,30,30,黑豹的毛皮,Black panther fur
-22,黑洞黑,Black Hole Black,5,5,5,宇宙黑洞的视觉概念,Visual concept of a cosmic black hole
-23,黑烬黑,Ember Black,30,25,20,燃烧殆尽的灰烬,Fully burned embers
-24,黑玄武岩黑,Basalt Black,45,45,50,玄武岩,Basalt rock
-25,黑钨矿黑,Wolframite Black,35,30,25,黑钨矿,Wolframite mineral
-26,黑电气石黑,Schorl Black,30,30,35,黑电气石（碧玺）,Black tourmaline (Schorl)
-27,黑蛇黑,Black Snake Black,35,35,40,黑蛇的鳞片,Scales of a black snake
-28,黑蛙黑,Black Frog Black,40,45,40,黑斑蛙的皮肤,Skin of a dark frog
-29,黑蝶黑,Black Butterfly Black,25,25,30,黑蝴蝶的翅膀,Wings of a black butterfly
-30,黑麦黑,Rye Black,45,40,35,黑麦颗粒,Dark rye grains
-31,黑松露黑,Black Truffle Black,50,45,40,黑松露,Black truffle
-32,黑海黑,Black Sea Black,15,25,35,深不见底的海水,The deep abyssal sea
-33,黑烟黑,Smoke Black,25,25,25,浓烟,Dense smoke
-34,黑珐琅黑,Black Enamel Black,20,20,25,黑色珐琅质,Black enamel
-35,黑铁黑,Wrought Iron Black,50,50,55,锻铁,Black wrought iron
-36,黑陶黑,Black Pottery Black,40,35,30,古代黑陶器,Ancient black pottery
-37,黑魂黑,Soot Black,30,30,30,烟囱里的煤烟,Chimney soot
-38,黑影黑,Shadow Black,40,40,45,强烈光线下的深影,Deep shadow in strong light
-39,黑潭黑,Black Pool Black,10,15,20,深色潭水,Water in a dark pool
-40,黑帘黑,Velvet Black,15,15,20,黑色天鹅绒,Black velvet fabric
-41,黑玉黑,Jet Black,25,25,30,煤玉（煤精）,Jet (lignite)
-42,黑眉黑,Black Brow Black,35,30,25,黑眉锦蛇的纹路,Pattern of the black-browed snake
-43,黑潮黑,Kuroshio Black,10,20,30,黑潮洋流,Kuroshio ocean current
-44,黑钙土黑,Chernozem Black,35,30,25,黑钙土,Chernozem soil
-45,黑锰矿黑,Manganite Black,40,35,30,黑锰矿,Manganite mineral
-46,黑云母黑,Biotite Black,35,30,25,黑云母,Biotite mica
-47,黑胆黑,Black Gall Black,30,25,20,动物的黑胆汁,Animal black gall
-48,黑耀黑,Black Gloss Black,10,10,15,黑色漆器光泽,Gloss of black lacquerware
-49,黑魂黑,Nocturnal Black,20,20,25,夜行生物在黑暗中的轮廓,Silhouette of nocturnal creatures in darkness
-50,玄黑,Mysterious Black,5,5,10,宇宙最深处的黑暗,The profound darkness of deep space
+1,雪白,Snow White,255,255,255,新落雪花,Freshly fallen snow
+2,云白,Cloud White,250,250,250,洁白云朵,White clouds
+3,盐白,Salt White,255,255,250,海盐结晶,Sea salt crystals
+4,棉花白,Cotton White,255,250,250,棉花纤维,Cotton fibers
+5,珍珠白,Pearl White,255,253,245,珍珠光泽,Pearl luster
+6,瓷器白,Porcelain White,255,252,240,白瓷釉面,White porcelain glaze
+7,月光白,Moonlight White,255,250,240,皎洁月光,Moonlight
+8,霜白,Frost White,255,248,238,清晨白霜,Morning frost
+9,淀粉白,Starch White,255,245,235,马铃薯淀粉,Potato starch
+10,面粉白,Flour White,255,240,230,小麦面粉,Wheat flour
+11,象牙白,Ivory White,255,255,240,象牙材质,Ivory material
+12,贝壳白,Seashell White,255,245,238,贝壳内壁,Seashell interior
+13,羽毛白,Feather White,255,240,240,天鹅羽毛,Swan feathers
+14,大理石白,Marble White,245,242,235,白色大理石,White marble
+15,石膏白,Gypsum White,240,240,235,石膏矿物,Gypsum mineral
+16,银白,Silver White,240,240,240,白银金属,Silver metal
+17,铂金白,Platinum White,230,230,230,铂金光泽,Platinum luster
+18,不锈钢白,Stainless Steel,220,220,220,不锈钢表面,Stainless steel
+19,铝白,Aluminum White,210,210,210,铝金属,Aluminum metal
+20,锡白,Tin White,200,200,200,锡金属,Tin metal
+21,铅白,Lead White,190,190,190,铅金属,Lead metal
+22,锌白,Zinc White,180,180,180,锌金属,Zinc metal
+23,镍白,Nickel White,170,170,170,镍金属,Nickel metal
+24,钨白,Tungsten White,160,160,160,钨金属,Tungsten metal
+25,钢白,Steel White,150,150,150,钢材颜色,Steel color
+26,铁白,Iron White,140,140,140,铸铁表面,Cast iron surface
+27,烟灰白,Ash White,180,180,180,木材灰烬,Wood ash
+28,水泥白,Cement White,170,170,170,水泥颜色,Cement color
+29,石灰白,Lime White,160,160,160,石灰石,Limestone
+30,石英白,Quartz White,155,155,155,石英晶体,Quartz crystal
+31,月光石白,Moonstone White,240,240,250,月光石光泽,Moonstone glow
+32,蛋白石白,Opal White,235,235,240,蛋白石彩光,Opal iridescence
+33,珍珠母白,Mother-of-Pearl,240,240,245,珍珠母贝,Pearl oyster shell
+34,乳白,Milky White,255,250,240,乳汁颜色,Milk color
+35,奶油白,Cream White,255,245,220,新鲜奶油,Fresh cream
+36,香草白,Vanilla White,255,240,210,香草冰淇淋,Vanilla ice cream
+37,杏仁白,Almond White,255,235,200,杏仁果肉,Almond flesh
+38,椰肉白,Coconut White,255,230,190,椰子果肉,Coconut flesh
+39,燕麦白,Oat White,240,220,180,燕麦颗粒,Oat grains
+40,米白,Rice White,245,230,185,大米颜色,Rice color
+41,丝绸白,Silk White,255,230,200,丝绸光泽,Silk luster
+42,亚麻白,Linen White,240,230,200,亚麻布料,Linen fabric
+43,帆布白,Canvas White,235,225,195,帆布材料,Canvas material
+44,羊皮纸白,Parchment White,230,220,190,羊皮古卷,Ancient parchment
+45,古书白,Antique Paper White,225,215,185,古书纸张,Old book paper
+46,沙滩白,Sand White,240,220,180,海滩细沙,Beach sand
+47,沙金白,Gold Sand White,235,215,175,含金沙粒,Gold-containing sand
+48,浅金,Light Gold,255,220,150,24K金光泽,24K gold luster
+49,香槟金,Champagne Gold,255,215,140,香槟酒色,Champagne color
+50,蜂蜜金,Honey Gold,255,210,130,液态蜂蜜,Liquid honey
+51,琥珀金,Amber Gold,255,200,120,琥珀树脂,Amber resin
+52,黄金,Gold Yellow,255,195,100,黄金金属,Gold metal
+53,玫瑰金,Rose Gold,255,190,110,玫瑰合金,Rose gold alloy
+54,铜金,Copper Gold,255,185,100,黄铜光泽,Brass luster
+55,青铜,Bronze Gold,255,180,90,青铜器物,Bronze artifact
+56,黄铁矿金,Pyrite Gold,255,175,80,愚人金光泽,Fool's gold luster
+57,日落金,Sunset Gold,255,170,70,日落金光,Sunset golden light
+58,麦浪金,Wheat Field Gold,255,165,60,麦田金色,Wheat field gold
+59,秋叶金,Autumn Leaf Gold,255,160,50,秋叶金色,Autumn leaf gold
+60,帝王金,Imperial Gold,255,155,40,帝王金器,Imperial gold artifacts

@@ -1,0 +1,51 @@
+序号,颜色中文名,颜色英文名,R,G,B,自然界来源实例（中文）,自然界来源实例（英文）
+1,灰蓝,Dusty Blue,100,120,150,阴天雾霭中的远山,"Distant mountains in misty,  cloudy weather"
+2,灰绿,Sage Green,120,130,110,干旱地区的鼠尾草丛,A patch of sagebrush in arid land
+3,灰褐,Taupe,130,110,100,野兔在秋冬换毛期的毛色,The fur of a hare during its autumn molt
+4,灰紫,Dusty Lavender,140,120,140,枯萎的薰衣草花枝,Dried lavender stems
+5,灰玫,Dusty Rose,150,110,120,风干玫瑰花瓣的颜色,Dried rose petals
+6,褐灰,Charcoal Gray,110,110,110,冷却的木炭灰,Cooled charcoal ash
+7,灰橄榄,Olive Gray,130,130,100,橄榄树叶背面的颜色,The underside of an olive leaf
+8,海岩灰,Sea Rock Gray,120,130,140,被海水打湿的深色礁石,Dark rock wet by sea water
+9,燧石灰,Flint Gray,110,115,120,燧石（打火石）的颜色,The color of flint
+10,阴天灰,Overcast Gray,150,150,150,均匀的阴天天空,A uniform overcast sky
+11,水泥灰,Cement Gray,140,140,140,干涸的水泥地,Dry cement
+12,风暴灰,Storm Gray,100,100,110,暴风雨来临前的海面,The sea before a storm
+13,鸽灰,Pigeon Gray,150,145,160,鸽子颈部的羽毛,The feathers on a pigeon's neck
+14,象灰,Elephant Gray,130,135,140,亚洲象的皮肤,The skin of an Asian elephant
+15,河砾石灰,River Gravel Gray,120,125,130,河床底的深色砾石,Dark gravel at the river bottom
+16,枯叶褐,Withered Leaf Brown,140,120,80,秋季落地已久的橡树叶,A long-fallen oak leaf in autumn
+17,泥土褐,Mud Brown,130,100,80,湿润的粘土,Wet clay soil
+18,树皮褐,Bark Brown,120,90,70,老松树的树皮,The bark of an old pine tree
+19,鹿褐,Deer Brown,150,120,90,白尾鹿的冬季毛色,The winter coat of a white-tailed deer
+20,陶褐,Terracotta,160,100,80,未上釉的红陶土,Unglazed terracotta clay
+21,锈褐,Rust Brown,150,80,60,轻度锈蚀的铁器,Mildly rusted iron
+22,巧克力褐,Milk Chocolate Brown,130,90,60,牛奶巧克力,Milk chocolate
+23,咖啡褐,Coffee Brown,110,75,55,冲泡好的深焙咖啡,Brewed dark roast coffee
+24,栗褐,Chestnut Brown,150,75,50,栗子烤熟后的颜色,A roasted chestnut
+25,古铜褐,Antique Bronze,150,110,80,氧化后的古铜器,Oxidized antique bronze
+26,暗橄榄绿,Dark Olive Green,100,110,60,柏树的枝叶,The foliage of a cypress tree
+27,苔藓绿,Moss Green (Dark),100,120,70,岩石背阴处的厚苔藓,Thick moss on the shaded side of a rock
+28,常春藤暗绿,Dark Ivy Green,80,100,60,常春藤老叶的深绿色,The dark green of old ivy leaves
+29,松针绿,Pine Needle Green,80,100,70,落地松针的颜色,The color of fallen pine needles
+30,军绿,Army Green,100,110,60,军用帆布的颜色,Military canvas color
+31,深卡其,Dark Khaki,150,130,80,沙地作战服的颜色,Desert camouflage uniform
+32,暗芥末黄,Dark Mustard,180,160,60,法式第戎芥末酱,Dijon mustard
+33,暗金黄,Dark Golden,180,150,50,黄昏时最后一缕光,The last gleam of golden light at dusk
+34,青铜绿,Patina Green,80,130,110,青铜器上的绿锈,Verdegris on bronze artifacts
+35,深青瓷,Deep Celadon,100,140,130,厚釉青瓷的内部色泽,The color inside thick celadon glaze
+36,深湖绿,Deep Lake Green,60,120,110,高山深湖的湖水,Water of a deep alpine lake
+37,墨绿,Forest Green (Dark),50,100,80,月光下的墨绿色森林,A dark forest under moonlight
+38,深蓝绿,Deep Teal,50,110,110,热带深水泻湖,A tropical deep-water lagoon
+39,深矢车菊蓝,Deep Cornflower Blue,80,100,160,暮色中的矢车菊花丛,Cornflowers at twilight
+40,午夜蓝,Midnight Blue,60,70,140,子夜时分的天空,The sky at midnight
+41,海军蓝,Navy Blue,0,50,110,海军制服深蓝色,Deep blue of naval uniforms
+42,深绀蓝,Deep Ultramarine,50,60,130,群青颜料与墨的混合,Ultramarine pigment mixed with ink
+43,暗钴蓝,Dark Cobalt Blue,60,80,150,钴蓝玻璃的深色变体,The dark variant of cobalt blue glass
+44,深紫蓝,Deep Periwinkle,90,90,160,阴凉处的紫罗兰,Violets growing in deep shade
+45,暗薰衣草紫,Dark Lavender,130,110,160,傍晚时成片的薰衣草,Lavender fields at dusk
+46,深李紫,Deep Plum,100,60,110,成熟李子的深紫色,The deep purple of a ripe plum
+47,酒红,Wine Red,120,30,60,陈年红葡萄酒的颜色,Aged red wine
+48,勃艮第红,Burgundy,110,0,40,勃艮第葡萄酒,Burgundy wine
+49,深绯红,Deep Crimson,150,0,50,天鹅绒幕布的深红色,Deep red of velvet stage curtains
+50,暗砖红,Dark Brick Red,140,60,50,古老建筑的红砖,The red brick of an old building

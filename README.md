@@ -156,10 +156,11 @@ This creates a subtle directional flow of energy between elements.
 ├─ colours/                     # Excel colour data files
 ├─ Five-colourLegend.py  # Main simulation script
 ├─ requirements.txt                # Documentation
-├─ README.md                # Documentation
 
 📁 Test/      # Testfile
 ├─ ......
+
+📃 README.md                # Documentation
 ```
 
 ---

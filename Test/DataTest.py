@@ -7,11 +7,11 @@ import plotly.io as pio
 pio.renderers.default = "browser"
 
 category_files = {
-    "青": "Test/cyan.xlsx",
-    "赤": "Test/red.xlsx",
-    "黄": "Test/yellow.xlsx",
-    "白": "Test/white.xlsx",
-    "黑": "Test/black.xlsx",
+    "青": "colour2/cyan.xlsx",
+    "赤": "colour2/red.xlsx",
+    "黄": "colour2/yellow.xlsx",
+    "白": "colour2/white.xlsx",
+    "黑": "colour2/black.xlsx",
 }
 
 # === Fibonacci sphere 算法 ===

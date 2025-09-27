@@ -50,13 +50,15 @@ The core of this project lies in **translating symbolic meanings of the Five Ele
 * **Equations**:
 
     **[
-P'(t) = C + (P - C) [1 + 0.2sin(3t)]
+P'(t) = C + (P - C) [1 + 0.08sin(0.5t)]
 ]
 [
-P'_z(t) += 2.0sin(7t + φ)
+P'_z(t) += 1.2sin(5t + φ)
 ]**
 
-Where ( C ) is the cluster center and ( φ ) is a particle-specific phase offset.
+Where ( P ) is the original particle position, ( C ) is the cluster center, and ( φ ) is a particle-specific phase offset.
+
+Particles jump like burning flames.
 
 ---
 
@@ -67,14 +69,16 @@ Where ( C ) is the cluster center and ( φ ) is a particle-specific phase offset
 * **Equations**:
 
     **[
-P'_x(t) = P_x + Rcos(ωt + φ)
+P'_x(t) = P_x + Rcos(ωt + φ) + 0.8sin(0.5t + φ​)
 ]
 [
-P'_z(t) = P_z + Rsin(ωt + φ)
+P'_z(t) = P_z + Rsin(ωt + φ) + 0.8cos(0.5t + φ​)
 ]
 [
-P'_y(t) += 0.25sin(0.7t + φ)
+P'_y(t) += 0.2sin(1.0t + φ)
 ]**
+
+Where ( R ) is the spiral radius, and ( ω ) is the flow speed.
 
 Particles exhibit horizontal flow and soft, wave-like motion.
 
@@ -87,11 +91,13 @@ Particles exhibit horizontal flow and soft, wave-like motion.
 * **Equations**:
 
     **[
-P'*y(t) = P_y + Asin(0.5t)
+P'*y(t) = P_y + Asin(0.5t) + B​sin(2.0t + φ​)
 ]
 [
-P'*{x,z}(t) += Bsin(0.5t + φ)
+P'*{x,z}(t) += 0.25sin(0.5t + φ)
 ]**
+
+Where ( A ) is the growth amplitude, and ( B ) is the sway amplitude.
 
 This simulates tree-like vertical growth and wind-driven swaying.
 
@@ -104,11 +110,16 @@ This simulates tree-like vertical growth and wind-driven swaying.
 * **Equations**:
 
     **[
-P'_x(t) = P_x + [R + ΔRsin(t)]cos(ωt)
+P'_x(t) = P_x + [R(t)]cos(ωt + φ)
 ]
 [
-P'_z(t) = P_z + [R + ΔRsin(t)]sin(ωt)
+P'_z(t) = P_z + [Rsin(t)]sin(ωt + φ)
+]
+[
+R(t) = 2.5 + 0.3sin(t)
 ]**
+
+Where ( ω ) is the rotation speed.
 
 The release and recovery of energy are demonstrated in the cycle.
 
@@ -121,7 +132,7 @@ The release and recovery of energy are demonstrated in the cycle.
 * **Equations**:
 
     **[
-P'(t) = P ⋅ [1 + 0.2sin(0.5t)]
+P'(t) = P ⋅ [1.0 + 0.1 * 0.8sin(0.5t)]
 ]**
 
 As heavy and steady as the breath of the earth.

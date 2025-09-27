@@ -88,13 +88,13 @@ class ClusteredWindow(gl.GLViewWidget):
                 self.base_positions[key] = pos.copy()
                 self.phase_offsets[key] = np.random.uniform(0, 2*np.pi, n_points)
 
-        # 五行相生
+        # five elements generation map
         self.sheng_map = {
-            "wood": "fire",   # 火生水
-            "fire": "earth",  # 水生木
-            "earth": "metal",  # 木生金
-            "metal": "water",# 金生土
-            "water": "wood"   # 土生火
+            "wood": "fire",
+            "fire": "earth",
+            "earth": "metal",
+            "metal": "water",
+            "water": "wood"
         }
 
         # timer
@@ -119,8 +119,8 @@ class ClusteredWindow(gl.GLViewWidget):
         self.phase += 0.05
 
         model_centers = self.compute_model_centers()
-        # 参数
-        base_influence = 0.05
+        # parameters
+        base_influence = 0.1
         influence_mod = 0.5 * (1 + np.sin(self.phase * 0.2))
         influence_scalar = base_influence * influence_mod
 
@@ -136,8 +136,8 @@ class ClusteredWindow(gl.GLViewWidget):
             if model == "fire":
                 # Fire: expansion + particle jitter
                 center = np.mean(base, axis=0)
-                scale = 1 + 0.05 * np.sin(self.phase * 0.5) # overall expansion/contraction
-                jitter = 1 * np.sin(3 * self.phase + phase_arr)  # individual particle jitter
+                scale = 1 + 0.08 * np.sin(self.phase * 0.5) # overall expansion/contraction
+                jitter = 1.2 * np.sin(5 * self.phase + phase_arr)  # individual particle jitter
                 new_points = center + (pos - center) * scale
                 new_points[:, 2] += jitter  # z-axis jitter
                 pos = new_points
@@ -151,7 +151,7 @@ class ClusteredWindow(gl.GLViewWidget):
                 pos[:, 0] = base[:, 0] + spiral_radius * np.cos(flow_speed * phase_vec) + 0.8 * np.sin(0.5 * self.phase + phase_vec)
                 pos[:, 2] = base[:, 2] + spiral_radius * np.sin(flow_speed * phase_vec) + 0.8 * np.cos(0.5 * self.phase + phase_vec)
                 # slight vertical wave
-                pos[:, 1] += 0.2 * np.sin(0.7 * self.phase + phase_vec)
+                pos[:, 1] += 0.2 * np.sin(1.0 * self.phase + phase_vec)
 
             elif model == "wood":
                 # Wood: growth + wobble
@@ -175,7 +175,7 @@ class ClusteredWindow(gl.GLViewWidget):
             elif model == "earth":
                 # Earth: slow pulsation
                 pulse = 0.8 * np.sin(0.5 * self.phase)
-                pos *= (1 + pulse * 0.2)
+                pos *= (1 + pulse * 0.1)
 
             # 五行相生影响
             target_model = self.sheng_map.get(model, None)

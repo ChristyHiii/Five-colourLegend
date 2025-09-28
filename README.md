@@ -29,6 +29,8 @@ cd Five-colourLegend
 | ---- | - | - | - | ------------------ |
 | xxxx | 0 | 0 | 0 |   xxxxxxxxxxxxxx   |
 
+The colours selected for this project are from: Pantone Colour System, Ral Colour System, and NCS. And we also referred to bird, insect, plant guides and mineralogical maps. We used ai to help organise the data.
+
 3. Run the simulation:
 
 ```bash

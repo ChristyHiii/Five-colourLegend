@@ -20,7 +20,7 @@ Additionally, the concept of ***“mutual generation(相生)”*** is introduced
 
 ```bash
 git clone https://github.com/ChristyHiii/Five-colourLegend.git
-cd Five-colourLegend
+cd Main
 ```
 
 2. Prepare your data files in `colour data/`:
@@ -28,6 +28,8 @@ cd Five-colourLegend
 | Name | R | G | B | Source from Nature |
 | ---- | - | - | - | ------------------ |
 | xxxx | 0 | 0 | 0 |   xxxxxxxxxxxxxx   |
+
+The colours selected for this project are from: Pantone Colour System, Ral Colour System, and NCS. And we also referred to bird, insect, plant guides and mineralogical maps. We used ai to help organise the data.
 
 3. Run the simulation:
 

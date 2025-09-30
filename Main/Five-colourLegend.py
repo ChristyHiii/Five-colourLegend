@@ -9,11 +9,11 @@ import pyqtgraph.opengl as gl
 
 # Excel
 category_files = {
-    "Cyan": "Main/Cyan.xlsx",
-    "Red": "Main/Red.xlsx",
-    "Yellow": "Main/Yellow.xlsx",
-    "White": "Main/White.xlsx",
-    "Black": "Main/Black.xlsx",
+    "Cyan": "Main/colour data/Cyan.xlsx",
+    "Red": "Main/colour data/Red.xlsx",
+    "Yellow": "Main/colour data/Yellow.xlsx",
+    "White": "Main/colour data/White.xlsx",
+    "Black": "Main/colour data/Black.xlsx",
 }
 
 # Fibonacci Sphere algorithm

@@ -166,7 +166,7 @@ This creates a subtle directional flow of energy between elements.
 
 ```
 📁 Main/
-├─ colours/                     # Excel colour data files
+├─ colour data/                     # Excel colour data files
 ├─ Five-colourLegend.py  # Main simulation script
 ├─ requirements.txt                # Documentation
 

@@ -1,4 +1,4 @@
-# Five-colourLegend: Five Elements Point Cloud Simulation
+# 🌈Five-colourLegend: Five Elements Point Cloud Simulation
 
 > An artistic fusion of computation, color, and cosmology — where particles dance in the rhythm of the Five Elements.
 

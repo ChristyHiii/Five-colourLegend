@@ -192,8 +192,7 @@ You can find the DataTest.py script in the Test folder. This is where we use Plo
 
 ## 📜 License
 
-MIT License © 2025 ChrisTing Huang
-Free to use for learning, research, and creative projects. Contributions and forks are welcome!
+MIT License © 2025 ChrisTing Huang. Feel free to use for learning, research, and creative projects. Contributions and forks are welcome! — just credit the original author🍬
 
 🌟 If you enjoy this project, please ⭐ star the repository and share it — let more people experience the beauty of the Five Elements through computation.
 

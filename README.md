@@ -16,16 +16,20 @@ Additionally, the concept of ***“mutual generation(相生)”*** is introduced
 
 ---
 
-## 🚀 Usage
+## 🚀 Getting Started
 
-1. Clone the repository:
+### 1. Clone the repository & Install dependencies
 
 ```bash
 git clone https://github.com/ChristyHiii/Five-colourLegend.git
 cd Main
 ```
 
-2. Prepare your data files in `colour data/`:
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Prepare your data files in `colour data/`
 
 | Name | R | G | B | Source from Nature |
 | ---- | - | - | - | ------------------ |
@@ -33,13 +37,13 @@ cd Main
 
 The colours selected for this project are from: Pantone Colour System, Ral Colour System, and NCS. And we also referred to bird, insect, plant guides and mineralogical maps. We used ai to help organise the data.
 
-3. Run the simulation:
+### 3. Run the simulation
 
 ```bash
 python Five-colourLegend.py
 ```
 
-4. Rotate, zoom, and explore the evolving 3D point cloud visualisation.
+### 4. Rotate, zoom, and explore the evolving 3D point cloud visualisation.
 
 ---
 
